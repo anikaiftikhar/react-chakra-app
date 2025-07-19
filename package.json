@@ -1,13 +1,13 @@
 {
   "name": "react-chakra-app",
   "version": "0.0.1",
-  "homepage": "https://anikaiftikhar.github.io/react-chakra-app",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+ "homepage": "https://anikaiftikhar.github.io/react-chakra-app",
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "@chakra-ui/react": "^3.22.0",
     "@emotion/react": "^11.14.0",
